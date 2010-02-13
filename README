@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2972
+
+This is a port of rfc 2104 hmac function.
+
+hmac#md5(key, text) require vimscript#2806
+hmac#sha1(key, text) require vimscript#2971
